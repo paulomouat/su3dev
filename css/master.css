@@ -1,0 +1,60 @@
+body {
+	font-family: 'Open Sans', sans-serif;
+	font-size: 14px;
+	color: #333;
+	margin: 0;	
+}
+
+a {
+    color: #003366;
+    text-decoration: underline;
+}
+
+a:link {
+    color: #003366;
+    text-decoration: underline;
+}
+
+a:visited {
+    color: #003366;
+    text-decoration: underline;
+}
+
+a:active {
+    color: #999999;
+}
+
+a:hover {
+    color: #999999;
+}
+
+.header {
+	background: #cccccc;
+	padding: 2px;
+	display: flex;
+	align-items:center;
+}
+
+.logo {
+	height: 50px;
+}
+
+.singlet {
+	height: 35px;
+	margin-left: auto;
+	margin-right: 1em;
+}
+
+.title {
+	/*font-family: 'Raleway', sans-serif;*/
+	font-family: 'Libre Franklin', Helvetica, Arial, Sans-Serif;
+	font-weight: bold;
+	font-size: 20px;
+	letter-spacing: .1em;
+	padding-left: .5em;
+}
+
+.content {
+	font-family: 'Open Sans', sans-serif;
+	padding: 10px;
+}
